@@ -1,11 +1,3 @@
 html {
-    height: 100%;
-    -webkit-font-smoothing: antialiased;
-    font-smoothing: antialiased;
-}
-
-body {
-    background-color: black;
-    background-position: center bottom, left top;
-    background-repeat: no-repeat;
+    background-color: #ddeea5;
 }
